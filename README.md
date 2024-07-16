@@ -1,0 +1,1 @@
+# flicko-aurora-hyprland-fixed
